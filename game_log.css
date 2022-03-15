@@ -1,0 +1,36 @@
+body
+{
+	background: tomato;
+}
+
+	.div_1 , .div_2
+	{
+		background: thistle;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#p1 , #p2
+{
+	display: inline-block;
+	margin-left: 10px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: turquoise;
+border-radius: 10px;
+border-top: 10px solid ivory;
+padding: 10px;
+float: none;
+text-align: left;
+}
